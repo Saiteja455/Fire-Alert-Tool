@@ -1,0 +1,8 @@
+.env
+/folder1/
+/folder2/
+node_modules
+package-lock.json
+/dist/
+.DS_Store
+/.nyc_output/
